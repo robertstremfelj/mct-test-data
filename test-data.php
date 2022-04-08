@@ -3,7 +3,7 @@
  * Plugin Name: Test data plugin
  * Plugin URI: https://www.popolnapostava.com/
  * Description: Plugin, ki ustvari test data.
- * Version: 1.0.0.
+ * Version: 2.0.0.
  * Author: Popolna Postava
  * Author URI: https://www.popolnapostava.com/
  */
