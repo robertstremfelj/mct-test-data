@@ -1,3 +1,6 @@
+.git/
+.git
 /node_modules
 /public/hot
-/vendor
+/vendor/*
+vendor
