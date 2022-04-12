@@ -1,2 +1,2 @@
 # Prevent delete folders
-/vendor       export-ignore
+vendor/*       export-ignore
