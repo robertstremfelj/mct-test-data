@@ -2,5 +2,3 @@
 .git
 /node_modules
 /public/hot
-/vendor/*
-vendor
