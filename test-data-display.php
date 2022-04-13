@@ -41,7 +41,7 @@ class testDataDisplay
     public function test_data() {
 
         header('Content-Type: text/html; charset=UTF-8');
-        echo '<div style="padding:10px;border:1px solid #cccccc;background:#fcd9d9;">Testiramo kako deluje plugin preko WP Pusherja ko je narejen update!</div>';
+        echo '<div style="padding:10px;border:1px solid #cccccc;background:#fcd9d9;">Testiramo kako deluje plugin preko WP Pusherja ko je narejen update na novo čist!</div>';
 
     }
 
